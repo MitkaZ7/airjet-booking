@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+}
+.navbar__menu {
+  list-style: none;
+  display: flex;
+}
+.navbar__menu-item {
+
+}
+.navbar__menu-link {
+
+}
+.navbar__buttons {
+
+}
+.navbar__button-register {
+
+}
+.navbar__button-sigin{
+
+}
